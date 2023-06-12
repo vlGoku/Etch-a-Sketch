@@ -31,7 +31,7 @@ function createField(sizeRaster) {
   }
   listener();
 }
-
+babasdajsd;
 function listener() {
   const boxes = document.querySelectorAll(".box");
 
