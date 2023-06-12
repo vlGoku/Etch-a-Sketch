@@ -23,7 +23,7 @@ removes the color from the squares
 function removeAllChildren(parent)
 ```
 
-The button asks you for a number that max can be 100 to create the area. If the number is above 100, you will get an error and get to try again
+The button asks you for a number that max can be 100 to create the area. If the number is above 100, you will get an error and get to try again.
 
 ```
 btn.addEventListener("click", () => {
